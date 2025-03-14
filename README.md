@@ -1,4 +1,7 @@
-# UU-Advanced-python-protein-design-project
-I will try to set up a workflow for refinement of my protein design based on the python packages
-RFDiffusion (https://github.com/RosettaCommons/RFdiffusion) and ProteinMPNN (https://github.com/dauparas/ProteinMPNN).
-Both the input protein structures and the verification of output structures will utilize Alphafold 2.
+# UU-Advanced-python-coding-project
+For this project I have made three scripts which plot three different kinds of graphs that I frequently
+encounter in my research and have in the past spent a lot of time plotting. Additionally, some basic 
+calculations can be made based on the data. For this I utilize many of the concepts from the course, 
+such as pandas, matplotlib, scipy, numpy, etc. 
+
+I have tried the scripts using recently produced data of mine, and it does indeed save a lot of time.
